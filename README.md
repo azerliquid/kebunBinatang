@@ -1,3 +1,3 @@
 # aplikasiKebunBinatang
 
-Aplikasi ini dibuat untuk memenuhi tugas Online Mobile Programming
+Aplikasi ini dibuat untuk memenuhi tugas Online Mobile Development
